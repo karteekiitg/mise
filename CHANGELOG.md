@@ -1,5 +1,21 @@
 # Changelog
 
+## [2026.7.1](https://github.com/jdx/mise/compare/v2026.7.0..v2026.7.1) - 2026-07-02
+
+### 🐛 Bug Fixes
+
+- **(env)** match redaction wildcards as globs by @jdx in [#10729](https://github.com/jdx/mise/pull/10729)
+- **(lockfile)** preserve header url while restoring asset host by @jdx in [#10728](https://github.com/jdx/mise/pull/10728)
+- **(lockfile)** avoid provenance guesses for opaque tags by @jdx in [#10722](https://github.com/jdx/mise/pull/10722)
+
+### 📚 Documentation
+
+- **(errors)** replace TODO stub with error message reference by @jdx in [#10724](https://github.com/jdx/mise/pull/10724)
+
+### 📦 Registry
+
+- prefer aqua for pi by @jdx in [#10727](https://github.com/jdx/mise/pull/10727)
+
 ## [2026.7.0](https://github.com/jdx/mise/compare/v2026.6.14..v2026.7.0) - 2026-07-02
 
 ### 🚀 Features
